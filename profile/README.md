@@ -38,7 +38,7 @@ Para começar a utilizar o app "Viajou", siga os passos abaixo:
 
 ## Contato
 
-Para mais informações ou suporte, entre em contato através de nosso site ou envie um email para contato@viajou.com.br.
+Para mais informações ou suporte, entre em contato através de nosso site ou envie um email para systeam@outlook.com.br
 
 ---
 
