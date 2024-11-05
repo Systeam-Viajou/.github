@@ -1,4 +1,4 @@
-# Viajou
+<h1 align="center">Viajou ✈️🌎</h1>
 
 ## Sobre o Viajou
 
